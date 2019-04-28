@@ -1,0 +1,8 @@
+access_key_aws = "XXXXXXXXXXXXXXXXX"
+secret_key_aws = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+domain_name = "somedomain.com"
+region = "eu-west-2"
+ami = "some-image-id"
+instance_type = "t2.micro"
+key_name = "some_aws_key"
